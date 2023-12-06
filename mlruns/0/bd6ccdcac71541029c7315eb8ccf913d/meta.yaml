@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Mateusz/Desktop/AAAML/ML1/mlruns/0/bd6ccdcac71541029c7315eb8ccf913d/artifacts
+end_time: 1701894973047
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bd6ccdcac71541029c7315eb8ccf913d
+run_name: trusting-goose-35
+run_uuid: bd6ccdcac71541029c7315eb8ccf913d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701894967691
+status: 3
+tags: []
+user_id: Mateusz

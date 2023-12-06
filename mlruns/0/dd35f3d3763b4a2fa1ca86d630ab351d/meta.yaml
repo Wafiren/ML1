@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Mateusz/Desktop/AAAML/ML1/mlruns/0/dd35f3d3763b4a2fa1ca86d630ab351d/artifacts
+end_time: 1701894967659
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dd35f3d3763b4a2fa1ca86d630ab351d
+run_name: honorable-frog-281
+run_uuid: dd35f3d3763b4a2fa1ca86d630ab351d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701894967128
+status: 3
+tags: []
+user_id: Mateusz
